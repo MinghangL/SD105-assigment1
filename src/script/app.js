@@ -1,5 +1,5 @@
 // constants to use in program.
-const APIKey = 'zpOgDArFTQol_ErrEKUk';
+const APIKey = '7JaeL9oBFGAL8sIZL5nV';
 const tableBody = document.querySelector('tbody');
 const streetDisplayTitle = document.getElementById('street-name');
 
